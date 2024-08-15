@@ -15,7 +15,7 @@ on:
 jobs:
   msrv:
     name: "Read MSRV"
-    uses: "actions-rust-lang/msrv/.github/workflows/msrv.yml@v0"
+    uses: "actions-rust-lang/msrv/.github/workflows/msrv.yml@main"
 
   build:
     name: "Build"
