@@ -1,0 +1,131 @@
+name: "CI"
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "**.rs"
+      - "Cargo.toml"
+  pull_request:
+    paths:
+      - "**.rs"
+      - "Cargo.toml"
+  workflow_dispatch:
+
+jobs:
+  msrv:
+    name: "Read MSRV"
+    uses: "actions-rust-lang/msrv/.github/workflows/msrv.yml@v0"
+
+  build:
+    name: "Build"
+    needs: ["msrv"]
+
+    strategy:
+      fail-fast: false
+      matrix:
+        rust-version:
+          # Latest nightly
+          - "nightly"
+          # Latest stable
+          - "stable"
+          # MSRV
+          - ${{ needs.msrv.outputs.msrv }}
+
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+
+      - name: "Install Rust"
+        uses: "actions-rust-lang/setup-rust-toolchain@v1"
+        with:
+          toolchain: ${{ matrix.rust-version }}
+
+      - name: "Run build"
+        run: |
+          cargo build
+
+  documentation:
+    name: "Documentation"
+
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+
+      - name: "Install Rust"
+        uses: "actions-rust-lang/setup-rust-toolchain@v1"
+
+      - name: "Generate docs"
+        env:
+          RUSTDOCFLAGS: "-Dwarnings"
+        run: |
+          cargo rustdoc
+
+  rustfmt:
+    name: "Rustfmt"
+
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: "Checkout repository"
+        uses: "actions/checkout@v4"
+
+      - name: "Install Rust"
+        uses: "actions-rust-lang/setup-rust-toolchain@v1"
+        with:
+          components: "rustfmt"
+
+      - name: "Run rustfmt"
+        uses: "actions-rust-lang/rustfmt@v1"
+
+  test:
+    name: "Test"
+
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: "Checkout repository"
+        uses: "actions/checkout@v4"
+
+      - name: "Install Rust"
+        uses: "actions-rust-lang/setup-rust-toolchain@v1"
+        with:
+          components: "rustfmt"
+
+      - name: "Run tests"
+        run: |
+          cargo test
+
+  typos:
+    name: "Typos"
+
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: "Checkout repository"
+        uses: "actions/checkout@v4"
+
+      - name: "Check for typos"
+        uses: "crate-ci/typos@v1"
+
+  release-gate:
+    name: "CI Release gate"
+    needs:
+      - "build"
+      - "documentation"
+      - "rustfmt"
+      - "test"
+      - "typos"
+
+    if: ${{ always() }}
+
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: "Exit with error"
+        if: ${{ contains(needs.*.result, 'failure') || contains(needs.*.result, 'cancelled') }}
+        run: exit 1

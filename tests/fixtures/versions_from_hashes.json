@@ -1,0 +1,2661 @@
+{
+  "bdbd88a4bbf4c017d741ff627f0cd17d8b8b0a95401ab507421821b083ec42e3f43b5312cc64d80e9a64664e226f21c2bda0f47c6236ca4cc29fc44c1784e01a": {
+    "name": "[EMF] Entity Model Features 2.1.3",
+    "version_number": "2.1.3",
+    "changelog": "fixed a crash when holding certain entity renderers with custom models.",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "BVzZfTc1",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "hX4kT2fu",
+    "project_id": "4I1XuqiY",
+    "author_id": "rLbuLV6t",
+    "date_published": "2024-07-04T03:49:26.823451Z",
+    "downloads": 474852,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "de8d74b91b9616923921dd0e25b01ca972d6ccf1",
+          "sha512": "bdbd88a4bbf4c017d741ff627f0cd17d8b8b0a95401ab507421821b083ec42e3f43b5312cc64d80e9a64664e226f21c2bda0f47c6236ca4cc29fc44c1784e01a"
+        },
+        "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/hX4kT2fu/entity_model_features_fabric_1.21-2.1.3.jar",
+        "filename": "entity_model_features_fabric_1.21-2.1.3.jar",
+        "primary": true,
+        "size": 410465,
+        "file_type": null
+      }
+    ]
+  },
+  "41fc3ccf4c5631667797ef928b765d3c4bcbf3bf8d9e68594f299548001895d8bc0b101ee029937a8572573596fb48711dbe09538e6cc0258bd350b6d292e682": {
+    "name": "Puzzle 1.6.3 - 1.21",
+    "version_number": "1.6.3+1.21-Puzzle",
+    "changelog": "## Puzzle v1.6.3+1.21 for 1.21\n[View the changelog](https://www.github.com/TeamMidnightDust/Puzzle/commits/)\n- Port to 1.20.6",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "2pBwdDy2",
+    "project_id": "3IuO68q1",
+    "author_id": "6YsSV9eP",
+    "date_published": "2024-06-16T16:52:18.562276Z",
+    "downloads": 400771,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "41fc3ccf4c5631667797ef928b765d3c4bcbf3bf8d9e68594f299548001895d8bc0b101ee029937a8572573596fb48711dbe09538e6cc0258bd350b6d292e682",
+          "sha1": "7a0498824bbca3ae75f51fa582025e758f8b1f20"
+        },
+        "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/2pBwdDy2/puzzle-1.6.3%2B1.21.jar",
+        "filename": "puzzle-1.6.3+1.21.jar",
+        "primary": true,
+        "size": 142150,
+        "file_type": null
+      }
+    ]
+  },
+  "ac42aaf3fbd8a63e5a8ecc1f9d7c4782722708132b8cbee2f01c226665b94e157cafa2c8d79f0f0fdbc7e7d57f32af00b251c1deccb099ae816c6326a0797788": {
+    "name": "Nvidium 0.2.9-beta",
+    "version_number": "0.2.9-beta",
+    "changelog": "* Sodium 0.5.11 compat\n* Compacted f3 debug information to take up less screenspace",
+    "dependencies": [
+      {
+        "version_id": "RncWhTxD",
+        "project_id": "AANobbMI",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "beta",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "cl0HrTL6",
+    "project_id": "SfMw2IZN",
+    "author_id": "f45kBWbv",
+    "date_published": "2024-06-30T12:02:29.406456Z",
+    "downloads": 373646,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "2ea01e5910c7273670f748e2664e948db2d77610",
+          "sha512": "ac42aaf3fbd8a63e5a8ecc1f9d7c4782722708132b8cbee2f01c226665b94e157cafa2c8d79f0f0fdbc7e7d57f32af00b251c1deccb099ae816c6326a0797788"
+        },
+        "url": "https://cdn.modrinth.com/data/SfMw2IZN/versions/cl0HrTL6/nvidium-0.2.9-beta.jar",
+        "filename": "nvidium-0.2.9-beta.jar",
+        "primary": true,
+        "size": 157404,
+        "file_type": null
+      }
+    ]
+  },
+  "bf63f8f16fae0317a361e6509f860f17b9fcfe76ab7c136aee9220b22ca4fb3f18a71100f8c5508515fb6e47b98d5f84f7c93f06a9a361b46a8a582e92fc6bcd": {
+    "name": "FabricBetterGrass 1.0.17+1.21",
+    "version_number": "1.0.17+1.21",
+    "changelog": "# 1.0.17+1.21\n🗃️**Detailed Changelog: [1.0.16+1.21 --> 1.0.17+1.21](https://github.com/UltimatChamp/FabricBetterGrass/compare/1.0.16+1.21...1.0.17+1.21)**\n\n### 🛠️Changes\n\n- Added _more_ **images** to the config screen.\n- Reduced the _Jar-size_ significantly, since the previous release.\n",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "1eAoo2KR",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "EfAF9obW",
+    "project_id": "m5T5xmUy",
+    "author_id": "JRIVBRCT",
+    "date_published": "2024-07-06T09:07:31.021755Z",
+    "downloads": 12396,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "bf63f8f16fae0317a361e6509f860f17b9fcfe76ab7c136aee9220b22ca4fb3f18a71100f8c5508515fb6e47b98d5f84f7c93f06a9a361b46a8a582e92fc6bcd",
+          "sha1": "c90827221ae1df728c11ad4bfb1fdaec5f946e88"
+        },
+        "url": "https://cdn.modrinth.com/data/m5T5xmUy/versions/EfAF9obW/FabricBetterGrass-1.0.17%2B1.21.jar",
+        "filename": "FabricBetterGrass-1.0.17+1.21.jar",
+        "primary": true,
+        "size": 117734,
+        "file_type": null
+      }
+    ]
+  },
+  "c56d76387a18a92be4725a4b0caa6c5e849d26271a62f8affc2c20d0f06bcf76189c85b16d8dd9f975f7ccad6d9d5186171753d165e4f4487a57497865ce3a6f": {
+    "name": "4.18",
+    "version_number": "4.18",
+    "changelog": "Compatible with 1.21",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "qQyHxfxd",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6",
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "minecraft"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "ZoKnhKiU",
+    "project_id": "tN4E9NfV",
+    "author_id": "2avTeeAE",
+    "date_published": "2024-06-10T18:29:25.936464Z",
+    "downloads": 323393,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "508069909d158716212cc11211ab88077412dcce",
+          "sha512": "c56d76387a18a92be4725a4b0caa6c5e849d26271a62f8affc2c20d0f06bcf76189c85b16d8dd9f975f7ccad6d9d5186171753d165e4f4487a57497865ce3a6f"
+        },
+        "url": "https://cdn.modrinth.com/data/tN4E9NfV/versions/ZoKnhKiU/Chat%20Reporting%20Helper.zip",
+        "filename": "Chat Reporting Helper.zip",
+        "primary": true,
+        "size": 57765,
+        "file_type": null
+      }
+    ]
+  },
+  "5f75ebbf93c232bc906caeca2c066c50f28f213706ad7cd986d8f77a42c0006690c456f9101112c4d15bb29c4ac629f6747f6e8f601bc8eab996b58561cf6be6": {
+    "name": "2.1.0+1.21",
+    "version_number": "2.1.0+1.21",
+    "changelog": "## Features\r\n\r\n - Final *(hopefully)* improvements to Windows support:\r\n   - The borderless fullscreen window is now recognized by OBS Game Capture ([#16](https://github.com/Kir-Antipov/cubes-without-borders/issues/16))\r\n   - Reduced input latency in borderless fullscreen mode ([#18](https://github.com/Kir-Antipov/cubes-without-borders/issues/18))\r\n   - I swear, if someone tells me that supporting Windows is easier than supporting Linux ever again...\r\n\r\n## Fixes\r\n\r\n - Fixed an issue that forced the game window into a maximized state after switching from regular fullscreen mode to windowed\r\n\r\n**Full Changelog**: [`2.0.1+1.21...2.1.0+1.21`](https://github.com/Kir-Antipov/cubes-without-borders/compare/2.0.1+1.21...2.1.0+1.21)",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "cU76xqvp",
+    "project_id": "ETlrkaYF",
+    "author_id": "GCrw5dng",
+    "date_published": "2024-07-02T19:50:40.019879Z",
+    "downloads": 118753,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "be868e3ee7b88dcb11f807003b94b893efa39a98",
+          "sha512": "5f75ebbf93c232bc906caeca2c066c50f28f213706ad7cd986d8f77a42c0006690c456f9101112c4d15bb29c4ac629f6747f6e8f601bc8eab996b58561cf6be6"
+        },
+        "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/cU76xqvp/cubes-without-borders-2.1.0%2B1.21.jar",
+        "filename": "cubes-without-borders-2.1.0+1.21.jar",
+        "primary": true,
+        "size": 55221,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha1": "baabb562b16c2df457926ab3d717474937274a1b",
+          "sha512": "218d658807ad7021deb526d5f4a59131a1b946241e829618912bd6d3adf662d3d7278ce12fb8a9a1c00bfc6b9f0b05eb9a9848a1170b580c77ca1a01913ddcd7"
+        },
+        "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/cU76xqvp/cubes-without-borders-2.1.0%2B1.21-sources.jar",
+        "filename": "cubes-without-borders-2.1.0+1.21-sources.jar",
+        "primary": false,
+        "size": 42410,
+        "file_type": null
+      }
+    ]
+  },
+  "507640ee00317e98dce7dd26561ecf0986772af0314b3d2d6cf5ddf0309583bad7cc5118daf539371ede813178094032902e29ffefb6131ee19537668bb01de7": {
+    "name": "[Fabric] 0.2.7+mc1.21",
+    "version_number": "0.2.7+mc1.21-fabric",
+    "changelog": "## Changelog\n- fix HUD part\n",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "alpha",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "Yt9IWzuL",
+    "project_id": "E0L8mfJZ",
+    "author_id": "oOhH1tPz",
+    "date_published": "2024-06-26T09:24:56.129859Z",
+    "downloads": 92762,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "735d9faf5572b48fefd6b82736031af256194c9c",
+          "sha512": "507640ee00317e98dce7dd26561ecf0986772af0314b3d2d6cf5ddf0309583bad7cc5118daf539371ede813178094032902e29ffefb6131ee19537668bb01de7"
+        },
+        "url": "https://cdn.modrinth.com/data/E0L8mfJZ/versions/Yt9IWzuL/ObsidianUI-fabric-0.2.7%2Bmc1.21.jar",
+        "filename": "ObsidianUI-fabric-0.2.7+mc1.21.jar",
+        "primary": true,
+        "size": 209665,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "edb47864470bb89c9c49bc10f1db61c5490709178e9c0c456c065f79bd8d2860732b05300cd1c71a0ffa4480d702144b90474b446ce306474788387b960ae75a",
+          "sha1": "5c3977022468e4a200b5e35b4f48956a612f8ad3"
+        },
+        "url": "https://cdn.modrinth.com/data/E0L8mfJZ/versions/Yt9IWzuL/ObsidianUI-fabric-0.2.7%2Bmc1.21-sources.jar",
+        "filename": "ObsidianUI-fabric-0.2.7+mc1.21-sources.jar",
+        "primary": false,
+        "size": 124195,
+        "file_type": null
+      }
+    ]
+  },
+  "0efb27850ca643f2e51eb5b42bd657eb8e301dd1050acfb7a5c7b6e892fd3e2143eaf16e7d90d4917de6f76241ea99a27efd75b0a408173caf63529aa1fc0a5d": {
+    "name": "Reese's Sodium Options 1.7.2 for Minecraft 1.21",
+    "version_number": "mc1.21-1.7.2",
+    "changelog": "**Full Changelog**: https://github.com/FlashyReese/reeses-sodium-options/compare/mc1.20.5-1.7.2...mc1.21-1.7.2",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "PtjYWJkn",
+        "file_name": null,
+        "dependency_type": "optional"
+      },
+      {
+        "version_id": null,
+        "project_id": "AANobbMI",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "YL57xq9U",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "DNJFe2me",
+    "project_id": "Bh37bMuy",
+    "author_id": "QXAY01zS",
+    "date_published": "2024-06-13T15:47:06.816304Z",
+    "downloads": 514823,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "cc4e16bba55547494667ec257349f66695e029de",
+          "sha512": "0efb27850ca643f2e51eb5b42bd657eb8e301dd1050acfb7a5c7b6e892fd3e2143eaf16e7d90d4917de6f76241ea99a27efd75b0a408173caf63529aa1fc0a5d"
+        },
+        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/DNJFe2me/reeses_sodium_options-1.7.2%2Bmc1.21.jar",
+        "filename": "reeses_sodium_options-1.7.2+mc1.21.jar",
+        "primary": true,
+        "size": 77428,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "ae2baf8a0f41c8617239de722dddfaefe2c2ed5a69f8691125bb6f026f71ea4a92c3217302336b6cc9ef8f21a6ed38d0bb149b95c253049ecf12deefa87a594e",
+          "sha1": "f3faefeed43cdc56e4b143d56ad7a7af7c11dba6"
+        },
+        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/DNJFe2me/reeses_sodium_options-1.7.2%2Bmc1.21-sources.jar",
+        "filename": "reeses_sodium_options-1.7.2+mc1.21-sources.jar",
+        "primary": false,
+        "size": 41980,
+        "file_type": null
+      }
+    ]
+  },
+  "0929f4b32e855bccc5bc16748620336c7d023e9bfad57160e62dcf8664184e51dd03c41a7088d2e889ecd7cc451fdd0ff5d0741a819acc06a983ecb40988f96d": {
+    "name": "[Fabric] 0.2.9+mc1.21",
+    "version_number": "0.2.9+mc1.21-fabric",
+    "changelog": "## Changelog\n- update dependencies\n- (Fabric) try fix nightconfig issue",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "E0L8mfJZ",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "alpha",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "lSVpt79H",
+    "project_id": "reCfnRvJ",
+    "author_id": "oOhH1tPz",
+    "date_published": "2024-06-26T09:37:58.127545Z",
+    "downloads": 92696,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "6732f9fd8991b5f532ec693b647d3a3eefec890f",
+          "sha512": "0929f4b32e855bccc5bc16748620336c7d023e9bfad57160e62dcf8664184e51dd03c41a7088d2e889ecd7cc451fdd0ff5d0741a819acc06a983ecb40988f96d"
+        },
+        "url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/lSVpt79H/RyoamicLights-fabric-0.2.9%2Bmc1.21.jar",
+        "filename": "RyoamicLights-fabric-0.2.9+mc1.21.jar",
+        "primary": true,
+        "size": 430038,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "fb92395069b17fa9608923c8258cbf3189f2a182d45f0ab56595bbce7225d3ab30229bf66c1744e03046351e9e0437416f585ebac0b49ee1e41e4caf42ad48df",
+          "sha1": "3d9c3645cae23af4483f45f30dc872c1d36e7e99"
+        },
+        "url": "https://cdn.modrinth.com/data/reCfnRvJ/versions/lSVpt79H/RyoamicLights-fabric-0.2.9%2Bmc1.21-sources.jar",
+        "filename": "RyoamicLights-fabric-0.2.9+mc1.21-sources.jar",
+        "primary": false,
+        "size": 129790,
+        "file_type": null
+      }
+    ]
+  },
+  "15b5624fb60e128217b9195ff7c4b98e884fbf1df1bcbd6cc876d7c5e30aab2a9e236faae00d369c6aaaac7d42fb2cd576019e04897db1e97c5cf266f5eb7e68": {
+    "name": "[ESF] Entity Sound Features 0.4",
+    "version_number": "0.4",
+    "changelog": "- now requires Entity Model Features\n- added `playingSound.<n>` random property for variating sounds, textures, and models\n- added `playsound(id, cond, x, y, z, a)` boolean animation function for EMF\n- added `playsound(id, cond, x)` boolean animation function for EMF\n- added `playingsound(id)` boolean animation function for EMF",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "4I1XuqiY",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "BVzZfTc1",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "beta",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "a2ESL2Dl",
+    "project_id": "IMuO8COj",
+    "author_id": "rLbuLV6t",
+    "date_published": "2024-07-09T06:35:06.655847Z",
+    "downloads": 31730,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "15b5624fb60e128217b9195ff7c4b98e884fbf1df1bcbd6cc876d7c5e30aab2a9e236faae00d369c6aaaac7d42fb2cd576019e04897db1e97c5cf266f5eb7e68",
+          "sha1": "39fb15b579e70ff1d39d7702fe5d634eb41c883c"
+        },
+        "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/a2ESL2Dl/entity_sound_features_fabric_1.21-0.4.jar",
+        "filename": "entity_sound_features_fabric_1.21-0.4.jar",
+        "primary": true,
+        "size": 97185,
+        "file_type": null
+      }
+    ]
+  },
+  "ae91c85a0de3447391b85ddae227c7bb33e3da7957c9c461f86cbfeecf5914a1f217dc2f0bf4bce7055cccd3dc1d5f055f6ce261d8fc3dee015df4a7cdc10343": {
+    "name": "Version 1.7",
+    "version_number": "1.7",
+    "changelog": "Version 1.7:\n- Update to support Minecraft 1.21\n\nThis version requires Fabric, Fabric loader 0.14.22+, and Minecraft 1.14+.",
+    "dependencies": [],
+    "game_versions": [
+      "1.14",
+      "1.14.1-pre1",
+      "1.14.1-pre2",
+      "1.14.1",
+      "1.14.2-pre1",
+      "1.14.2-pre2",
+      "1.14.2-pre3",
+      "1.14.2-pre4",
+      "1.14.2",
+      "1.14.3-pre1",
+      "1.14.3-pre2",
+      "1.14.3-pre3",
+      "1.14.3-pre4",
+      "1.14.3",
+      "1.14.4-pre1",
+      "1.14.4-pre2",
+      "1.14.4-pre3",
+      "1.14.4-pre4",
+      "1.14.4-pre5",
+      "1.14.4-pre6",
+      "1.14.4-pre7",
+      "1.14.4",
+      "19w34a",
+      "19w35a",
+      "19w36a",
+      "19w37a",
+      "19w38a",
+      "19w38b",
+      "19w39a",
+      "19w40a",
+      "19w41a",
+      "19w42a",
+      "19w44a",
+      "19w45a",
+      "19w45b",
+      "19w46a",
+      "19w46b",
+      "1.15-pre1",
+      "1.15-pre2",
+      "1.15-pre3",
+      "1.15-pre4",
+      "1.15-pre5",
+      "1.15-pre6",
+      "1.15-pre7",
+      "1.15",
+      "1.15.1-pre1",
+      "1.15.1",
+      "1.15.2-pre1",
+      "1.15.2-pre2",
+      "1.15.2",
+      "20w06a",
+      "20w07a",
+      "20w08a",
+      "20w09a",
+      "20w10a",
+      "20w11a",
+      "20w12a",
+      "20w13a",
+      "20w13b",
+      "20w14infinite",
+      "20w14a",
+      "20w15a",
+      "20w16a",
+      "20w17a",
+      "20w18a",
+      "20w19a",
+      "20w20a",
+      "20w20b",
+      "20w21a",
+      "20w22a",
+      "1.16-pre1",
+      "1.16-pre2",
+      "1.16-pre3",
+      "1.16-pre4",
+      "1.16-pre5",
+      "1.16-pre6",
+      "1.16-pre7",
+      "1.16-pre8",
+      "1.16-rc1",
+      "1.16",
+      "1.16.1",
+      "20w27a",
+      "20w28a",
+      "20w29a",
+      "20w30a",
+      "1.16.2-pre1",
+      "1.16.2-pre2",
+      "1.16.2-pre3",
+      "1.16.2-rc1",
+      "1.16.2-rc2",
+      "1.16.2",
+      "1.16.3-rc1",
+      "1.16.3",
+      "1.16.4-pre1",
+      "1.16.4-pre2",
+      "1.16.4-rc1",
+      "1.16.4",
+      "20w45a",
+      "20w46a",
+      "20w48a",
+      "20w49a",
+      "20w51a",
+      "1.16.5-rc1",
+      "1.16.5",
+      "21w03a",
+      "21w05a",
+      "21w05b",
+      "21w06a",
+      "21w07a",
+      "21w08a",
+      "21w08b",
+      "21w10a",
+      "21w11a",
+      "21w13a",
+      "21w14a",
+      "21w15a",
+      "21w16a",
+      "21w17a",
+      "21w18a",
+      "21w19a",
+      "21w20a",
+      "1.17-pre1",
+      "1.17-pre2",
+      "1.17-pre3",
+      "1.17-pre4",
+      "1.17-pre5",
+      "1.17-rc1",
+      "1.17-rc2",
+      "1.17",
+      "1.17.1-pre1",
+      "1.17.1-pre2",
+      "1.17.1-pre3",
+      "1.17.1-rc1",
+      "1.17.1-rc2",
+      "1.17.1",
+      "21w37a",
+      "21w38a",
+      "21w39a",
+      "21w40a",
+      "21w41a",
+      "21w42a",
+      "21w43a",
+      "21w44a",
+      "1.18-pre1",
+      "1.18-pre2",
+      "1.18-pre3",
+      "1.18-pre4",
+      "1.18-pre5",
+      "1.18-pre6",
+      "1.18-pre7",
+      "1.18-pre8",
+      "1.18-rc1",
+      "1.18-rc2",
+      "1.18-rc3",
+      "1.18-rc4",
+      "1.18",
+      "1.18.1-pre1",
+      "1.18.1-rc1",
+      "1.18.1-rc2",
+      "1.18.1-rc3",
+      "1.18.1",
+      "22w03a",
+      "22w05a",
+      "22w06a",
+      "22w07a",
+      "1.18.2-pre1",
+      "1.18.2-pre2",
+      "1.18.2-pre3",
+      "1.18.2-rc1",
+      "1.18.2",
+      "22w11a",
+      "22w12a",
+      "22w13a",
+      "22w13oneblockatatime",
+      "22w14a",
+      "22w15a",
+      "22w16a",
+      "22w16b",
+      "22w17a",
+      "22w18a",
+      "22w19a",
+      "1.19-pre1",
+      "1.19-pre2",
+      "1.19-pre3",
+      "1.19-pre4",
+      "1.19-pre5",
+      "1.19-rc1",
+      "1.19-rc2",
+      "1.19",
+      "22w24a",
+      "1.19.1-pre1",
+      "1.19.1-rc1",
+      "1.19.1-pre2",
+      "1.19.1-pre3",
+      "1.19.1-pre4",
+      "1.19.1-pre5",
+      "1.19.1-pre6",
+      "1.19.1-rc2",
+      "1.19.1-rc3",
+      "1.19.1",
+      "1.19.2-rc1",
+      "1.19.2-rc2",
+      "1.19.2",
+      "22w42a",
+      "22w43a",
+      "22w44a",
+      "22w45a",
+      "22w46a",
+      "1.19.3-pre1",
+      "1.19.3-pre2",
+      "1.19.3-pre3",
+      "1.19.3-rc1",
+      "1.19.3-rc2",
+      "1.19.3-rc3",
+      "1.19.3",
+      "23w03a",
+      "23w04a",
+      "23w05a",
+      "23w06a",
+      "23w07a",
+      "1.19.4-pre1",
+      "1.19.4-pre2",
+      "1.19.4-pre3",
+      "1.19.4-pre4",
+      "1.19.4-rc1",
+      "1.19.4-rc2",
+      "1.19.4-rc3",
+      "1.19.4",
+      "23w12a",
+      "23w13a",
+      "23w13a_or_b",
+      "23w14a",
+      "23w16a",
+      "23w17a",
+      "23w18a",
+      "1.20-pre1",
+      "1.20-pre2",
+      "1.20-pre3",
+      "1.20-pre4",
+      "1.20-pre5",
+      "1.20-pre6",
+      "1.20-pre7",
+      "1.20-rc1",
+      "1.20",
+      "1.20.1-rc1",
+      "1.20.1",
+      "23w31a",
+      "23w32a",
+      "23w33a",
+      "23w35a",
+      "1.20.2-pre1",
+      "1.20.2-pre2",
+      "1.20.2-pre3",
+      "1.20.2-pre4",
+      "1.20.2-rc1",
+      "1.20.2-rc2",
+      "1.20.2",
+      "23w40a",
+      "23w41a",
+      "23w42a",
+      "23w43a",
+      "23w43b",
+      "23w44a",
+      "23w45a",
+      "23w46a",
+      "1.20.3-pre1",
+      "1.20.3-pre2",
+      "1.20.3-pre3",
+      "1.20.3-pre4",
+      "1.20.3-rc1",
+      "1.20.3",
+      "1.20.4-rc1",
+      "1.20.4",
+      "23w51a",
+      "23w51b",
+      "24w03a",
+      "24w03b",
+      "24w04a",
+      "24w05a",
+      "24w05b",
+      "24w06a",
+      "24w07a",
+      "24w09a",
+      "24w10a",
+      "24w11a",
+      "24w12a",
+      "24w13a",
+      "24w14potato",
+      "24w14a",
+      "1.20.5-pre1",
+      "1.20.5-pre2",
+      "1.20.5-pre3",
+      "1.20.5-pre4",
+      "1.20.5-rc1",
+      "1.20.5-rc2",
+      "1.20.5-rc3",
+      "1.20.5",
+      "1.20.6-rc1",
+      "1.20.6",
+      "24w18a",
+      "24w19a",
+      "24w19b",
+      "24w20a",
+      "24w21a",
+      "24w21b",
+      "1.21-pre1",
+      "1.21-pre2",
+      "1.21-pre3",
+      "1.21-pre4",
+      "1.21-rc1",
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "xYZZSPef",
+    "project_id": "x9BrsVME",
+    "author_id": "I6UpQgEU",
+    "date_published": "2024-06-15T09:30:03.672234Z",
+    "downloads": 65237,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "ae91c85a0de3447391b85ddae227c7bb33e3da7957c9c461f86cbfeecf5914a1f217dc2f0bf4bce7055cccd3dc1d5f055f6ce261d8fc3dee015df4a7cdc10343",
+          "sha1": "6a33ba3cc5bc565e539ec10ca194b2489276e571"
+        },
+        "url": "https://cdn.modrinth.com/data/x9BrsVME/versions/xYZZSPef/macos-input-fixes-1.7.jar",
+        "filename": "macos-input-fixes-1.7.jar",
+        "primary": true,
+        "size": 72613,
+        "file_type": null
+      }
+    ]
+  },
+  "a8a4520c2891e6a3c891b0b5c1106c29851a97c8e5a0131fe94cdcdfd755b679ce55dbaeafd14638ef7987b8efcd32619209aba4460762027f1a2ebe121a4046": {
+    "name": "Sodium 0.5.11",
+    "version_number": "mc1.21-0.5.11",
+    "changelog": "This is a minor release of Sodium, further fixing driver checks, adding minor fixes for fluid rendering, and fixing a crash when using specific resource packs that changed the clouds texture.",
+    "dependencies": [],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "RncWhTxD",
+    "project_id": "AANobbMI",
+    "author_id": "DzLrfrbK",
+    "date_published": "2024-06-29T13:45:49.041594Z",
+    "downloads": 1699678,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "a8a4520c2891e6a3c891b0b5c1106c29851a97c8e5a0131fe94cdcdfd755b679ce55dbaeafd14638ef7987b8efcd32619209aba4460762027f1a2ebe121a4046",
+          "sha1": "d67e66ea4bb2409997b636dae4203d33764cdcc8"
+        },
+        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/RncWhTxD/sodium-fabric-0.5.11%2Bmc1.21.jar",
+        "filename": "sodium-fabric-0.5.11+mc1.21.jar",
+        "primary": true,
+        "size": 982671,
+        "file_type": null
+      }
+    ]
+  },
+  "91d78cf26f61876b1f5110e8aabb0189fe20fb669c2f2dd608416bce31c5c02eec9284ea418c405ab118562b5b8202c83154784bedf136f95727a86096e43430": {
+    "name": "Lithium 0.12.7",
+    "version_number": "mc1.21-0.12.7",
+    "changelog": "Lithium 0.12.7 fixes a few issues like sculk sensors not working after a chunk reload, too few chickens spawning from thrown eggs, fluids flowing towards the wrong hole and hopper minecarts making inventories have incorrect signal strengths.\nIn case you find any bugs, please report them at the [issue tracker](https://github.com/CaffeineMC/lithium-fabric/issues). You can check https://github.com/CaffeineMC/lithium-fabric/blob/mc1.21-0.12.7/lithium-mixin-config.md for a description of each optimization and how to disable it.\n\n## What's changed\n\n- fix: fluid flow using incorrect direction in bfs\n  - Affected all fluid flowing (#526)\n- fix: Item stack resurrection causing incorrect internal state of LithiumStackList\n  - Affected comparators after hopper minecarts performed a failed item extraction attempt from the inventory (#524)\n- fix: empty space search incorrectly returning space as fully occupied when completely empty\n  - Affected thrown eggs, entity pose calculations and entity positioning inside nether portals (#525)\n- fix: chunk reload causing game event dispatchers to not be registered\n  - Affected all types of game event listeners (e.g. sculk sensors and catalysts, wardens, allays) (#522)",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "my7uONjU",
+    "project_id": "gvQqBUqZ",
+    "author_id": "uhPSqlnd",
+    "date_published": "2024-06-20T11:20:35.761848Z",
+    "downloads": 968737,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "91d78cf26f61876b1f5110e8aabb0189fe20fb669c2f2dd608416bce31c5c02eec9284ea418c405ab118562b5b8202c83154784bedf136f95727a86096e43430",
+          "sha1": "028d8dde791e2283aa0d67decc8cbcd66400a38e"
+        },
+        "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0.12.7.jar",
+        "filename": "lithium-fabric-mc1.21-0.12.7.jar",
+        "primary": true,
+        "size": 739832,
+        "file_type": null
+      }
+    ]
+  },
+  "8f65090404d38aa6b35386003c7fe3138b7b337a931d9b4b21038d3389725a5fcd4027b89a4d86517067df9a6c73255e13dba9c106900b574f6ec41d71c52358": {
+    "name": "[ETF] Entity Texture Features 6.1.3",
+    "version_number": "6.1.3",
+    "changelog": "[6.1.3]\n- added additional null checks to fix some odd mod crashes\n- fixed the config breaking with some mods\n- fixed player skin tool pixel select image being sideways in 1.21",
+    "dependencies": [],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "O3jDICoH",
+    "project_id": "BVzZfTc1",
+    "author_id": "rLbuLV6t",
+    "date_published": "2024-07-03T10:01:26.064111Z",
+    "downloads": 498378,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "8f65090404d38aa6b35386003c7fe3138b7b337a931d9b4b21038d3389725a5fcd4027b89a4d86517067df9a6c73255e13dba9c106900b574f6ec41d71c52358",
+          "sha1": "f2c9e292b9582a02903f1886f8f9f0313299d91f"
+        },
+        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/O3jDICoH/entity_texture_features_fabric_1.21-6.1.3.jar",
+        "filename": "entity_texture_features_fabric_1.21-6.1.3.jar",
+        "primary": true,
+        "size": 599401,
+        "file_type": null
+      }
+    ]
+  },
+  "8cd91182feec18a41412d6a8ad5311f730d881c30959aeb80eddf993c7930200758d0f4f1676dcbced7d315c124a0c02137f997c998a4912dd1a10a6a33664af": {
+    "name": "[Fabric 1.21] Capes 1.5.4",
+    "version_number": "1.5.4+1.21",
+    "changelog": "A changelog can be found at https://github.com/CaelTheColher/Capes",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "Ha28R6CL",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "mOgUt4GM",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "6SzVPVR4",
+    "project_id": "89Wsn8GD",
+    "author_id": "yjZ5N9Lc",
+    "date_published": "2024-06-15T14:09:09.661004Z",
+    "downloads": 457077,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "11655909a800fd70e2e0ca940cddc2bdbcbe2003",
+          "sha512": "8cd91182feec18a41412d6a8ad5311f730d881c30959aeb80eddf993c7930200758d0f4f1676dcbced7d315c124a0c02137f997c998a4912dd1a10a6a33664af"
+        },
+        "url": "https://cdn.modrinth.com/data/89Wsn8GD/versions/6SzVPVR4/capes-1.5.4%2B1.21-fabric.jar",
+        "filename": "capes-1.5.4+1.21-fabric.jar",
+        "primary": true,
+        "size": 77572,
+        "file_type": null
+      }
+    ]
+  },
+  "71027f881898621c4be32130225a87dd57a212f9a8d7da39da89ddfa18b6052c9b62254401dadff58a8ec5fed002c7d0351294c2b90917d1828314c20b8020da": {
+    "name": "1.21-2.1.1",
+    "version_number": "1.21-2.1.1",
+    "changelog": " fabric render types now accept cutout_mipped and tripwire, making up all the ones that can be found in chunk buffer",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "fwoY0CNc",
+    "project_id": "3qAYkBMB",
+    "author_id": "BU21lLGA",
+    "date_published": "2024-06-28T07:48:36.991973Z",
+    "downloads": 157384,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "a6d445d35f6225d72b765b6ee814b2c8707c51c5",
+          "sha512": "71027f881898621c4be32130225a87dd57a212f9a8d7da39da89ddfa18b6052c9b62254401dadff58a8ec5fed002c7d0351294c2b90917d1828314c20b8020da"
+        },
+        "url": "https://cdn.modrinth.com/data/3qAYkBMB/versions/fwoY0CNc/polytone-1.21-2.1.1-fabric.jar",
+        "filename": "polytone-1.21-2.1.1-fabric.jar",
+        "primary": true,
+        "size": 519242,
+        "file_type": null
+      }
+    ]
+  },
+  "fb12dd676a080691c78a701721520de1469d53e702710b21ca8eead54d56936e6b3a39b1003e022090de40d650239d547c81031cb4b8a8ab619e56b98cd92c2c": {
+    "name": "1.2.0",
+    "version_number": "1.2.0",
+    "changelog": "- Update to 1.20.5",
+    "dependencies": [],
+    "game_versions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "eUN0SbET",
+    "project_id": "qJDfP7WN",
+    "author_id": "nyx2i4fB",
+    "date_published": "2024-04-24T07:04:27.210138Z",
+    "downloads": 399925,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "fb12dd676a080691c78a701721520de1469d53e702710b21ca8eead54d56936e6b3a39b1003e022090de40d650239d547c81031cb4b8a8ab619e56b98cd92c2c",
+          "sha1": "37ad23f76336eedbd940a1f99c5e49d969fdee67"
+        },
+        "url": "https://cdn.modrinth.com/data/qJDfP7WN/versions/eUN0SbET/main-menu-credits-1.2.0.jar",
+        "filename": "main-menu-credits-1.2.0.jar",
+        "primary": true,
+        "size": 16640,
+        "file_type": null
+      }
+    ]
+  },
+  "24a280f59981f0ea8ecdc1a517ed74ac7d57e33b519e950c393061f299443e3487e4eab4dfe986a1934f38a2c636819c9f0d027c729dffccdd58ff5f8e04807b": {
+    "name": "2.2.1 (1.21)",
+    "version_number": "2.2.1+mc1.21",
+    "changelog": "### Changed\n\n- Moved an `@Inject` on `NoiseChunkGenerator#method_38332` to an `@Overwrite`\n    - This allows other mods, such as [ishland](https://github.com/ishland)'s mods, to change the `Executor` of\n      `NoiseChunkGenerator#populateNoise`'s `CompletableFuture`.\n",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "W8V2bkLB",
+    "project_id": "KuNKN7d2",
+    "author_id": "90lgCfkO",
+    "date_published": "2024-07-04T13:20:08.897669Z",
+    "downloads": 224478,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "f06c1a48013bb4ff1183348d4d6ab3a31988edd3",
+          "sha512": "24a280f59981f0ea8ecdc1a517ed74ac7d57e33b519e950c393061f299443e3487e4eab4dfe986a1934f38a2c636819c9f0d027c729dffccdd58ff5f8e04807b"
+        },
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/W8V2bkLB/noisium-fabric-2.2.1%2Bmc1.21.jar",
+        "filename": "noisium-fabric-2.2.1+mc1.21.jar",
+        "primary": true,
+        "size": 216139,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha1": "2d75eb40c9962bc61b0d791c6ab00293569b11f2",
+          "sha512": "af01b170864ddb7a31c20a8a001164417a572753631a75688761284e4c5e56585c491dac4a8f46f77c0f95975edc8bdfe23639e37cf36c294882175068346feb"
+        },
+        "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/W8V2bkLB/noisium-fabric-2.2.1%2Bmc1.21-sources.jar",
+        "filename": "noisium-fabric-2.2.1+mc1.21-sources.jar",
+        "primary": false,
+        "size": 41009,
+        "file_type": null
+      }
+    ]
+  },
+  "afc292e199869b982f18bbad208fed4a1d95b2f4292e0cc422ee8116d1da1d91132f554ac0608e7c87959d7ede37c20293133c811986dcfc80a8648f29d13028": {
+    "name": "Fabric Language Kotlin 1.11.0+kotlin.2.0.0",
+    "version_number": "1.11.0+kotlin.2.0.0",
+    "changelog": "- Bump version (modmuss)\n- Update to Kotlin 2.0.0 (#140) (github-actions[bot], github-actions)\n- Update create-pull-request action (modmuss)\n- Update readme (github-actions)\n",
+    "dependencies": [],
+    "game_versions": [
+      "1.14",
+      "1.14.1",
+      "1.14.2",
+      "1.14.3",
+      "1.14.4",
+      "1.15",
+      "1.15.1",
+      "1.15.2",
+      "1.16",
+      "1.16.1",
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5",
+      "1.17",
+      "1.17.1",
+      "1.18",
+      "1.18.1",
+      "1.18.2",
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6",
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "afsFajDC",
+    "project_id": "Ha28R6CL",
+    "author_id": "JZA4dW8o",
+    "date_published": "2024-05-21T12:07:54.863287Z",
+    "downloads": 2188192,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "4f5b3f0d773c4cc9e79d2f5ede3a637e78737f6d",
+          "sha512": "afc292e199869b982f18bbad208fed4a1d95b2f4292e0cc422ee8116d1da1d91132f554ac0608e7c87959d7ede37c20293133c811986dcfc80a8648f29d13028"
+        },
+        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar",
+        "filename": "fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
+        "primary": true,
+        "size": 7015315,
+        "file_type": null
+      }
+    ]
+  },
+  "d8380b1fa139217bacf1f7d7686004aea66f4648c68364586c02af39a0f8e4ca9a2fa240261b1d48581390fa64d44561b619fa5c3019d90823114728b5898bf3": {
+    "name": "1.6.1+1.21",
+    "version_number": "1.6.1+1.21",
+    "changelog": "- Fixed English (US) wasn't selected after updating to Language Reload 1.6.",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "mOgUt4GM",
+        "file_name": null,
+        "dependency_type": "optional"
+      },
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "fpDBBXvT",
+    "project_id": "uLbm7CG6",
+    "author_id": "GewVh30O",
+    "date_published": "2024-06-13T18:54:45.301470Z",
+    "downloads": 506545,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "c7988fea2a258a5afdfa193615d3b5261c1e58bb",
+          "sha512": "d8380b1fa139217bacf1f7d7686004aea66f4648c68364586c02af39a0f8e4ca9a2fa240261b1d48581390fa64d44561b619fa5c3019d90823114728b5898bf3"
+        },
+        "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/fpDBBXvT/language-reload-1.6.1%2B1.21.jar",
+        "filename": "language-reload-1.6.1+1.21.jar",
+        "primary": true,
+        "size": 68960,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "1451051edb3db636a915fb28c476c60599a1b19947add2d1d0c5fcd35d1ce98a8e9014f0085061642e4a47a0b85447bb5a916b343ee3a5185c1f9b30b7f28643",
+          "sha1": "8a10d1d8d2b03650aea488215c7ac229967a4ca4"
+        },
+        "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/fpDBBXvT/language-reload-1.6.1%2B1.21-sources.jar",
+        "filename": "language-reload-1.6.1+1.21-sources.jar",
+        "primary": false,
+        "size": 43222,
+        "file_type": null
+      }
+    ]
+  },
+  "1d12d6e54f01e68857e861bc124eb172277bc24577e29356779066a8ba40e8adab726ed727e1812c03decf5d66cedfe094947578bf30c7ea1ac6eca0a8ab800e": {
+    "name": "v3.6.0",
+    "version_number": "3.6.0",
+    "changelog": "- Add option to enable or disable vsync when switching states ([PR 205](https://github.com/juliand665/Dynamic-FPS/pull/205) by @LostLuma)\n- Fix config loading potentially crashing due to using the system locale during conversions ([commit d66ac](https://github.com/juliand665/Dynamic-FPS/commit/d66acaf31b88ca9ebbb9c5dc0be99f2003f5ff20) by @LostLuma)\n",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "9s6osm5g",
+        "file_name": null,
+        "dependency_type": "optional"
+      },
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "mOgUt4GM",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "WJuoKsuM",
+    "project_id": "LQ3K71Q1",
+    "author_id": "HXiopoLj",
+    "date_published": "2024-06-30T17:39:51.937361Z",
+    "downloads": 333821,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "7a42dab5fe78a4e89d541d3eca2d7513afff23f9",
+          "sha512": "1d12d6e54f01e68857e861bc124eb172277bc24577e29356779066a8ba40e8adab726ed727e1812c03decf5d66cedfe094947578bf30c7ea1ac6eca0a8ab800e"
+        },
+        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/WJuoKsuM/dynamic-fps-3.6.0%2Bminecraft-1.21.0-fabric.jar",
+        "filename": "dynamic-fps-3.6.0+minecraft-1.21.0-fabric.jar",
+        "primary": true,
+        "size": 172584,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha1": "833b0e4117064478b76c967f215bc00da90e846a",
+          "sha512": "718e0b78a426da45d5b00668d0346cd5817c3252377b16ff676c1325b358b46f78e2b0a529f66f11796119fe3eb4d5ea4f4c409eb60a7fb623eba48f59034e48"
+        },
+        "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/WJuoKsuM/dynamic-fps-3.6.0%2Bminecraft-1.21.0-fabric-sources.jar",
+        "filename": "dynamic-fps-3.6.0+minecraft-1.21.0-fabric-sources.jar",
+        "primary": false,
+        "size": 115043,
+        "file_type": null
+      }
+    ]
+  },
+  "48302fffe163fa0264f5feb8e98882cc0ecb820e1fbf417d7e7e9e499f7097c1d4e9f9acb38fd5d9e0200f61fc677b0e864bc705d1b9d1e56fd29efbbce28f6a": {
+    "name": "3.0.0-beta.5+1.21",
+    "version_number": "3.0.0-beta.5+1.21",
+    "changelog": "",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "NksUpFjf",
+    "project_id": "1IjD5062",
+    "author_id": "CdcF3lqY",
+    "date_published": "2024-06-13T23:53:12.936736Z",
+    "downloads": 824593,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "16d31a39e85dc10cdff4e06198a1bb26b4b82427",
+          "sha512": "48302fffe163fa0264f5feb8e98882cc0ecb820e1fbf417d7e7e9e499f7097c1d4e9f9acb38fd5d9e0200f61fc677b0e864bc705d1b9d1e56fd29efbbce28f6a"
+        },
+        "url": "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21.jar",
+        "filename": "continuity-3.0.0-beta.5+1.21.jar",
+        "primary": true,
+        "size": 1007136,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha1": "1a177f8fd0c0d3b523cfbbb8b39974323ea73d59",
+          "sha512": "cb8ce965169f7575535eddc8678dbf4e3ccc4a4ee82db77f37003882f7cdb2283972e2bc513fdc2f94d675013701e8b1b6215be85fc9c7cc1ed8b70939ffcc50"
+        },
+        "url": "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21-sources.jar",
+        "filename": "continuity-3.0.0-beta.5+1.21-sources.jar",
+        "primary": false,
+        "size": 987429,
+        "file_type": null
+      }
+    ]
+  },
+  "70b9e8d34eebc93e2428f30f796939b2f724ae74ef9d739441a1463218b7829dc8c0a36b9e3eb8fae8381d5c1f3c5ef1da5b68694b66ae81a2ec5c2b5b031e82": {
+    "name": "FabricSkyBoxes Interop 1.4.0 for Minecraft 1.21",
+    "version_number": "mc1.21-1.4.0",
+    "changelog": "**Full Changelog**: https://github.com/FlashyReese/fabricskyboxes-interop/compare/mc1.20.5-1.4.0...mc1.21-1.4.0",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "YBz7DOs8",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "A3n8pliV",
+    "project_id": "HpdHOPOp",
+    "author_id": "QXAY01zS",
+    "date_published": "2024-06-13T17:07:16.778648Z",
+    "downloads": 439255,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "ebd6d9f048b591cee8bbf90b23246f3369161868",
+          "sha512": "70b9e8d34eebc93e2428f30f796939b2f724ae74ef9d739441a1463218b7829dc8c0a36b9e3eb8fae8381d5c1f3c5ef1da5b68694b66ae81a2ec5c2b5b031e82"
+        },
+        "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/A3n8pliV/fsb-interop-1.4.0%2Bmc1.21-build.54.jar",
+        "filename": "fsb-interop-1.4.0+mc1.21-build.54.jar",
+        "primary": true,
+        "size": 73307,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha1": "8ca3d57e5bc48c693be199fe9955aef8add7296d",
+          "sha512": "9259c984a4e03366da05c8cfba7278c2bccfec15810f2b58871efe155ae23c9ddb2f288d03f9de5a06007b159b75762053bdc9b2ff1cd0d2462f2df140db5e59"
+        },
+        "url": "https://cdn.modrinth.com/data/HpdHOPOp/versions/A3n8pliV/fsb-interop-1.4.0%2Bmc1.21-build.54-sources.jar",
+        "filename": "fsb-interop-1.4.0+mc1.21-build.54-sources.jar",
+        "primary": false,
+        "size": 46448,
+        "file_type": null
+      }
+    ]
+  },
+  "ec25c5dacf85dbcbafab0c1039462fbe851ea5c32245fcd50ab0e98bbe2dda2ca8bb41ae222171c853e3f5c4c5a97c74d89570e695fe9dff0b90169471872e45": {
+    "name": "1.6.6-1.21 - Fabric",
+    "version_number": "1.6.6",
+    "changelog": "## Changes\r\n* Update to 1.21\r\n\r\n**Full Changelog**: https://github.com/tr7zw/EntityCulling/compare/1.6.5...1.6.6",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "Bu3hSiJb",
+    "project_id": "NNAgCjsB",
+    "author_id": "Qnt13hO8",
+    "date_published": "2024-06-14T21:20:01.410934Z",
+    "downloads": 1056410,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "ec25c5dacf85dbcbafab0c1039462fbe851ea5c32245fcd50ab0e98bbe2dda2ca8bb41ae222171c853e3f5c4c5a97c74d89570e695fe9dff0b90169471872e45",
+          "sha1": "cae57526503e6fff155d6168fd271c9f1f4d029b"
+        },
+        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/Bu3hSiJb/entityculling-fabric-1.6.6-mc1.21.jar",
+        "filename": "entityculling-fabric-1.6.6-mc1.21.jar",
+        "primary": true,
+        "size": 65363,
+        "file_type": null
+      }
+    ]
+  },
+  "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f": {
+    "name": "7.0.0 (Fabric)",
+    "version_number": "7.0.0",
+    "changelog": "- Update to 1.21.0\n- A slight/theoretical improvement of startup performance (embeddedt)",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "wmIZ4wP4",
+    "project_id": "uXXizFIs",
+    "author_id": "cXzLZ8YY",
+    "date_published": "2024-06-16T09:45:35.402511Z",
+    "downloads": 989836,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "95b18b0f1673bbbe328812c3052cc1a921591f0f",
+          "sha512": "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f"
+        },
+        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar",
+        "filename": "ferritecore-7.0.0-fabric.jar",
+        "primary": true,
+        "size": 117333,
+        "file_type": null
+      }
+    ]
+  },
+  "61bc119b90122c4ff08c44e36d2ec98bcd93ef2fd3c549c3b4cbc213982839a41acb4932f8b856237dd9416a547585a2a79a5714b4e36540cdb5c65f4c220380": {
+    "name": "[1.21] Fabric API 0.100.6+1.21",
+    "version_number": "0.100.6+1.21",
+    "changelog": "- Bump version (modmuss50)\n- Fixed raw fish tag typo in name (#3921) (TelepathicGrunt)\n",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "Y0cpssyN",
+    "project_id": "P7dR8mSH",
+    "author_id": "JZA4dW8o",
+    "date_published": "2024-07-07T14:45:11.943378Z",
+    "downloads": 286526,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "61bc119b90122c4ff08c44e36d2ec98bcd93ef2fd3c549c3b4cbc213982839a41acb4932f8b856237dd9416a547585a2a79a5714b4e36540cdb5c65f4c220380",
+          "sha1": "dd92d95977c960affefc6c29e3ee946ce7b4723a"
+        },
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Y0cpssyN/fabric-api-0.100.6%2B1.21.jar",
+        "filename": "fabric-api-0.100.6+1.21.jar",
+        "primary": true,
+        "size": 2267960,
+        "file_type": null
+      }
+    ]
+  },
+  "5e6c5027420dd4fc0a2aa628edbb75f9dd468f14451766f582018eaa89d69e345c45452cc57c9730d4298a33e698a7832269b491f7cecbb11cc46d084825f2b3": {
+    "name": "1.21-1.6",
+    "version_number": "1.21-1.6",
+    "changelog": "changed default configs to have quad expansion off\nYou can turn it back on yourself if you want in the configs",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "FUZo6yCk",
+    "project_id": "QdG47OkI",
+    "author_id": "BU21lLGA",
+    "date_published": "2024-06-19T22:11:46.320409Z",
+    "downloads": 502411,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "5e6c5027420dd4fc0a2aa628edbb75f9dd468f14451766f582018eaa89d69e345c45452cc57c9730d4298a33e698a7832269b491f7cecbb11cc46d084825f2b3",
+          "sha1": "b8069f2a672abdea1112daa6d716a0e482cf61ea"
+        },
+        "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/FUZo6yCk/modelfix-1.21-1.6-fabric.jar",
+        "filename": "modelfix-1.21-1.6-fabric.jar",
+        "primary": true,
+        "size": 62761,
+        "file_type": null
+      }
+    ]
+  },
+  "bcd9b4f5cef1521c00b59cc9409725556922a077c60f62ba834dca680e29f334660a7c68150ff827779fb888585042b1ba687dfce6fd4d650507d9c59f023703": {
+    "name": "Iris 1.7.3 for Minecraft 1.21",
+    "version_number": "1.7.3+1.21",
+    "changelog": "This release fixes a critical bug relating to name tag crashes, as well as a less critical bug related to the dragon death animation.",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "AANobbMI",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "kuOV4Ece",
+    "project_id": "YL57xq9U",
+    "author_id": "DzLrfrbK",
+    "date_published": "2024-07-01T00:12:05.988508Z",
+    "downloads": 1204501,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "bcd9b4f5cef1521c00b59cc9409725556922a077c60f62ba834dca680e29f334660a7c68150ff827779fb888585042b1ba687dfce6fd4d650507d9c59f023703",
+          "sha1": "1b4e44a74c850d407518bc5cbe33eec9577ad9e9"
+        },
+        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/kuOV4Ece/iris-1.7.3%2Bmc1.21.jar",
+        "filename": "iris-1.7.3+mc1.21.jar",
+        "primary": true,
+        "size": 2707610,
+        "file_type": null
+      }
+    ]
+  },
+  "de31bfc86caa2b3e6cf8b88e3a3f35c5c8fd6742eac289470670fae0e0d1e70f719321d2ae5c2063eb10b9ec6af3a5b2ca6f9ce26e2e689b9878d0e8f4c6866d": {
+    "name": "9.0.2+Fabric",
+    "version_number": "9.0.2+Fabric",
+    "changelog": "### Changelog\n- Detonated the mod using Hissboom, Detonater's spiritual successor\n  - The result is 120.3 KBs (23.4% of the mod) being trimmed out! \n  - While targetted for 9.0.1, CI issues required yet another release to be done",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "UuqHBjf9",
+        "file_name": null,
+        "dependency_type": "embedded"
+      },
+      {
+        "version_id": null,
+        "project_id": "mOgUt4GM",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "jQ9ADWX2",
+    "project_id": "aXf2OSFU",
+    "author_id": "Ef5Yk50C",
+    "date_published": "2024-06-14T17:16:24.315239Z",
+    "downloads": 52719,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "88ef1bda3857465f716096f7ef8386f514985071",
+          "sha512": "de31bfc86caa2b3e6cf8b88e3a3f35c5c8fd6742eac289470670fae0e0d1e70f719321d2ae5c2063eb10b9ec6af3a5b2ca6f9ce26e2e689b9878d0e8f4c6866d"
+        },
+        "url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/jQ9ADWX2/OkZoomer-Fabric-9.0.2.jar",
+        "filename": "OkZoomer-Fabric-9.0.2.jar",
+        "primary": true,
+        "size": 393239,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "e6bb56c5982d4165a0d88d6b1d3cd03038f9f45086c2145d16758a7f7080c5aa806042c8f86597fb282db133a7e5f559be52068402795a1812d3e9d15b3008a8",
+          "sha1": "4f204db6ee5962058127638a7a8767ac0a9ce270"
+        },
+        "url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/jQ9ADWX2/OkZoomer-Fabric-9.0.2-sources.jar",
+        "filename": "OkZoomer-Fabric-9.0.2-sources.jar",
+        "primary": false,
+        "size": 59403,
+        "file_type": null
+      }
+    ]
+  },
+  "9c4f9586edee3a666fdc12c9e3cdb56e86836985bbd5c5d91284af6f0cbc5aa1d2f94d20334e306b0699fc6235d16c333e9301c756619045de3ac7c0f3038593": {
+    "name": "[Fabric 1.21] World Host 0.4.14",
+    "version_number": "0.4.14+1.21-fabric",
+    "changelog": "## Changes\n\n- Add a new, more secure, authentication with the World Host server\n- Turn \"Don't Try UPnP\" into \"Use UPnP\"\n\n## Bug Fixes\n\n- Fix not cleanly disconnecting from the World Host server on shutdown\n- Fix crash after inputting invalid Server Address\n- Fix toasts being shown at only 20 FPS on 1.21\n",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "mOgUt4GM",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "benNNbLm",
+    "project_id": "2AIZDfYo",
+    "author_id": "QqVinRab",
+    "date_published": "2024-07-09T02:05:10.124172Z",
+    "downloads": 34705,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "9c4f9586edee3a666fdc12c9e3cdb56e86836985bbd5c5d91284af6f0cbc5aa1d2f94d20334e306b0699fc6235d16c333e9301c756619045de3ac7c0f3038593",
+          "sha1": "4de83e1d993596fb19e500dc9dd82e577017725b"
+        },
+        "url": "https://cdn.modrinth.com/data/2AIZDfYo/versions/benNNbLm/world-host-0.4.14%2B1.21-fabric.jar",
+        "filename": "world-host-0.4.14+1.21-fabric.jar",
+        "primary": true,
+        "size": 485364,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "2a9aaa4fb537f28e5a3e108ae9f0a218e7de6539d8fc780021f9f0528813f13ef361f8f179ac6104dcc763bad745eb2028df32002655d6eec9c7be7e216f1f80",
+          "sha1": "84565587f7da9f847e381d2d3eb07309b1ee4d21"
+        },
+        "url": "https://cdn.modrinth.com/data/2AIZDfYo/versions/benNNbLm/world-host-0.4.14%2B1.21-fabric-sources.jar",
+        "filename": "world-host-0.4.14+1.21-fabric-sources.jar",
+        "primary": false,
+        "size": 188425,
+        "file_type": null
+      }
+    ]
+  },
+  "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78": {
+    "name": "[Fabric 1.14 - 1.21] v0.1.2",
+    "version_number": "0.1.2",
+    "changelog": "Fix #10\nRelicense to LGPLv3",
+    "dependencies": [],
+    "game_versions": [
+      "1.14",
+      "1.14.1",
+      "1.14.2",
+      "1.14.3",
+      "1.14.4",
+      "1.15",
+      "1.15.1",
+      "1.15.2",
+      "1.16",
+      "1.16.1",
+      "1.16.2",
+      "1.16.3",
+      "1.16.4",
+      "1.16.5",
+      "1.17",
+      "1.17.1",
+      "1.18",
+      "1.18.1",
+      "1.18.2",
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6",
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "KMOzdYko",
+    "project_id": "WwbubTsV",
+    "author_id": "1Hsaf75m",
+    "date_published": "2023-06-12T08:06:07.649412Z",
+    "downloads": 2876699,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+          "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
+        },
+        "url": "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar",
+        "filename": "yosbr-0.1.2.jar",
+        "primary": true,
+        "size": 17373,
+        "file_type": null
+      }
+    ]
+  },
+  "954bd6b364892afb569973e6beabcd8cce5a22b70747d124e5059b716475a82344ccf586b1ba38ab0b21e6d42485894f398b22285c81f1fff619f9b709a9fe3e": {
+    "name": "YetAnotherConfigLib 3.5.0 for MC 1.21",
+    "version_number": "3.5.0+1.21-fabric",
+    "changelog": "# YetAnotherConfigLib 3.5.0\n\nThis build supports the following versions:\n- Fabric 1.20.1\n- Fabric 1.20.4\n- Fabric 1.20.6 (also supports 1.20.5)\n- Fabric 1.21\n- NeoForge 1.20.6 (also supports 1.20.5)\n- NeoForge 1.20.4\n- MinecraftForge 1.20.1\n\n## *Experimental* Codec Config\n\nThis update brings a new experimental config API that utilises Mojang's Codec for (de)serialization.\n\n```java\npublic class CodecConfig extends JsonFileCodecConfig/*or*/CodecConfig {\n    public static final CodecConfig INSTANCE = new CodecConfig();\n\n    public final ConfigEntry<Integer> myInt =\n            register(\"my_int\", 0, Codec.INT);\n\n    public final ReadonlyConfigEntry<InnerCodecConfig> myInnerConfig =\n            register(\"my_inner_config\", InnerCodecConfig.INSTANCE);\n\n    public CodecConfig() {\n        super(path);\n    }\n    \n    void test() {\n        loadFromFile(); // load like this\n        saveToFile(); // save like this\n        \n        // or if you just extend CodecConfig instead of JsonFileConfig:\n        JsonElement element = null;\n        this.decode(element, JsonOps.INSTANCE); // load\n        DataResult<JsonElement> encoded = this.encodeStart(JsonOps.INSTANCE); // save\n    }\n}\n```\nor in Kotlin...\n```kotlin\nobject CodecConfig : JsonFileCodecConfig(path) {\n    val myInt by register<Int>(0, Codec.INT)\n    \n    val myInnerConfig by register(InnerCodecConfig)\n    \n    fun test() {\n        loadFromFile()\n        saveToFile()\n        \n        // blah blah blah\n    }\n}\n```\n\n## Rewritten Kotlin DSL\n\nCompletely rewrote the Kotlin DSL!\n\n```kotlin\nYetAnotherConfigLib(\"namespace\") {\n    val category by categories.registering {\n        val option by rootOptions.registering<Int> {\n            controller = slider(range = 5..10)\n            binding(::thisProp, default)\n            \n            val otherOption by categories[\"category\"][\"group\"].futureRef<Boolean>()\n            otherOption.onReady { it.setAvailable(false) }\n        }\n        \n        // translation key is generated automagically\n        val label by rootOptions.registeringLabel\n        \n        val group by groups.registering {\n            val otherOption = options.register<Boolean>(\"otherOption\") {\n                controller = tickBox()\n            }\n        }\n    }\n}\n```\n\n## Changes\n\n- Fix dropdown controllers erroneously showing their dropdown - Crendgrim\n- Make cancel/reset and undo buttons public for accessing\n- Add compatibility for 1.21\n",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "Y8Wa10Re",
+    "project_id": "1eAoo2KR",
+    "author_id": "nyx2i4fB",
+    "date_published": "2024-06-13T16:13:58.635070Z",
+    "downloads": 953256,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "954bd6b364892afb569973e6beabcd8cce5a22b70747d124e5059b716475a82344ccf586b1ba38ab0b21e6d42485894f398b22285c81f1fff619f9b709a9fe3e",
+          "sha1": "c58dab87a7b62d0b3812c97fa69381ae041a1439"
+        },
+        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/Y8Wa10Re/YetAnotherConfigLib-3.5.0%2B1.21-fabric.jar",
+        "filename": "YetAnotherConfigLib-3.5.0+1.21-fabric.jar",
+        "primary": true,
+        "size": 1150467,
+        "file_type": null
+      }
+    ]
+  },
+  "6f12d5d7b75ed38f006e4c1e176a2308bf78e6bb5d49601152d7a8fa8e576b3e884bd04fcfb976b82fb67a62408e7efcff3ecc6844cea62b07d4b0538b9f0549": {
+    "name": "2.1.4 (1.21/1.21.1)",
+    "version_number": "2.1.4",
+    "changelog": "I just can't catch a break can I.  \n- Fix an issue where light/sky colors wouldn't react to time properly  \n\nHOPEFULLY no more critical issues after this-then 1.19 versions won't receive any more updates.",
+    "dependencies": [],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "neoforge"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "XYBqWKD2",
+    "project_id": "g96Z4WVZ",
+    "author_id": "MtdsrsRk",
+    "date_published": "2024-06-15T06:13:30.505591Z",
+    "downloads": 275573,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "6f12d5d7b75ed38f006e4c1e176a2308bf78e6bb5d49601152d7a8fa8e576b3e884bd04fcfb976b82fb67a62408e7efcff3ecc6844cea62b07d4b0538b9f0549",
+          "sha1": "2338c2382537de70388a2f0f2a7b60ee0512afce"
+        },
+        "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/XYBqWKD2/BadOptimizations-2.1.4-1.21.jar",
+        "filename": "BadOptimizations-2.1.4-1.21.jar",
+        "primary": true,
+        "size": 91292,
+        "file_type": null
+      }
+    ]
+  },
+  "01fe4782bd8036a9e5ebb749fc22f32834ac228d0ea025b89687a1bcd7296b1312c5a46cb1480bc9851380297c3ee4b57f966c09af6a901b092023c8e23032a2": {
+    "name": "v11.0.1 for 1.21",
+    "version_number": "11.0.1",
+    "changelog": "- Fixed \"Server Links\" button overlapping Mods button in \"Insert\" mode",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "eXts2L7r",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1-rc1",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "xhN1IvHi",
+    "project_id": "mOgUt4GM",
+    "author_id": "uF4fzWRt",
+    "date_published": "2024-06-21T14:44:44.493843Z",
+    "downloads": 1044568,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "01fe4782bd8036a9e5ebb749fc22f32834ac228d0ea025b89687a1bcd7296b1312c5a46cb1480bc9851380297c3ee4b57f966c09af6a901b092023c8e23032a2",
+          "sha1": "e4ba66f6036a4902433bb517d55120c4237c512f"
+        },
+        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/xhN1IvHi/modmenu-11.0.1.jar",
+        "filename": "modmenu-11.0.1.jar",
+        "primary": true,
+        "size": 975390,
+        "file_type": null
+      }
+    ]
+  },
+  "e58f0e4b9696038404f9dbbaee19f32f32e38ce8d103c341b1eb31142a16cc08caf9b2e3f0e60f8377cb27140fcaf32933df8e107518b5344081521e3fe1c859": {
+    "name": "1.3.0",
+    "version_number": "1.3.0",
+    "changelog": "- Support Sodium 0.5\n- Add face rejection to increase performance\n- Add mangrove roots culling\n",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "1eAoo2KR",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "mOgUt4GM",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.20.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "TFvkv8XK",
+    "project_id": "iG6ZHsUV",
+    "author_id": "nyx2i4fB",
+    "date_published": "2023-08-23T21:51:49.017929Z",
+    "downloads": 1344304,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "83380456dab54b8ac790b84a0f4f39a1404e6bc5",
+          "sha512": "e58f0e4b9696038404f9dbbaee19f32f32e38ce8d103c341b1eb31142a16cc08caf9b2e3f0e60f8377cb27140fcaf32933df8e107518b5344081521e3fe1c859"
+        },
+        "url": "https://cdn.modrinth.com/data/iG6ZHsUV/versions/TFvkv8XK/CullLessLeaves-1.3.0.jar",
+        "filename": "CullLessLeaves-1.3.0.jar",
+        "primary": true,
+        "size": 114211,
+        "file_type": null
+      }
+    ]
+  },
+  "23c603c88532206cae4400e3eea5dea220d5d328b5dc27d3a550fa1b31c27639744592e9f2e888536b6ed529c13e2c95465b98413c55157de45f3ecc5daa02bc": {
+    "name": "EBE v0.10.1 for 1.21",
+    "version_number": "0.10.1+1.21",
+    "changelog": "- Update to 1.21\n- Block atlas changes during resource reloads should no longer corrupt animated block entity models",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "8OuTJDGd",
+    "project_id": "OVuFYfre",
+    "author_id": "WH9NfS5R",
+    "date_published": "2024-06-13T19:44:58.337205Z",
+    "downloads": 717415,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "23c603c88532206cae4400e3eea5dea220d5d328b5dc27d3a550fa1b31c27639744592e9f2e888536b6ed529c13e2c95465b98413c55157de45f3ecc5daa02bc",
+          "sha1": "36045df5f1b3e7645a5dd450fa305a8134dd7c51"
+        },
+        "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/8OuTJDGd/enhancedblockentities-0.10.1%2B1.21.jar",
+        "filename": "enhancedblockentities-0.10.1+1.21.jar",
+        "primary": true,
+        "size": 200698,
+        "file_type": null
+      }
+    ]
+  },
+  "e851adea39f2b2628aa02f77c23c9ce46eca94ed23799906fe6507947cd94f8ec9c567f8516cb5a55e4d917dd85cdbd3918120a8242af4f67bd33e5aca0b7703": {
+    "name": "Indium 1.0.34 for Minecraft 1.21.x/Sodium 0.5.11",
+    "version_number": "1.0.34+mc1.21",
+    "changelog": "- Update to Sodium 0.5.11 (comp500)\n\nSee the full changes on Github: https://github.com/comp500/Indium/commits/1.0.34+mc1.21",
+    "dependencies": [
+      {
+        "version_id": "RncWhTxD",
+        "project_id": "AANobbMI",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "K4hsdO9H",
+    "project_id": "Orvt0mRa",
+    "author_id": "M6f6rkfI",
+    "date_published": "2024-07-01T18:34:06.407606Z",
+    "downloads": 857697,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "e851adea39f2b2628aa02f77c23c9ce46eca94ed23799906fe6507947cd94f8ec9c567f8516cb5a55e4d917dd85cdbd3918120a8242af4f67bd33e5aca0b7703",
+          "sha1": "cf4641206fde618f194dc0a1064b1294e385d679"
+        },
+        "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34%2Bmc1.21.jar",
+        "filename": "indium-1.0.34+mc1.21.jar",
+        "primary": true,
+        "size": 104921,
+        "file_type": null
+      }
+    ]
+  },
+  "cab235d72e548fa2baad8ad6e6704c8345a6fa1bbe57791be31e30e0a464f97d4e1c55873b890f97a62116311e109bc7f9265b72fb615afda1948350dcb27113": {
+    "name": "FabricSkyBoxes 0.7.4 for Minecraft 1.21",
+    "version_number": "mc1.21-0.7.4",
+    "changelog": "**Full Changelog**: https://github.com/AMereBagatelle/fabricskyboxes/compare/mc1.20.5-0.7.4...mc1.21-0.7.4",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "yhQrKNAJ",
+    "project_id": "YBz7DOs8",
+    "author_id": "ifLBWnLs",
+    "date_published": "2024-06-13T16:43:35.757218Z",
+    "downloads": 542217,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "cab235d72e548fa2baad8ad6e6704c8345a6fa1bbe57791be31e30e0a464f97d4e1c55873b890f97a62116311e109bc7f9265b72fb615afda1948350dcb27113",
+          "sha1": "d7c80f23792afc6018da2477d46804114529afca"
+        },
+        "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/yhQrKNAJ/fabricskyboxes-0.7.4%2Bmc1.21.jar",
+        "filename": "fabricskyboxes-0.7.4+mc1.21.jar",
+        "primary": true,
+        "size": 206127,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "420ec23a977cd8a411e55c96017042441f3daf3c32310379315d65ad8841cf5352de59732bd9cd54d1830e1f003bd40227259a0ad00dc50e49f5ca63f03ae4c4",
+          "sha1": "62e9e915301cc6495302459bc53fbc51bb26e1bb"
+        },
+        "url": "https://cdn.modrinth.com/data/YBz7DOs8/versions/yhQrKNAJ/fabricskyboxes-0.7.4%2Bmc1.21-sources.jar",
+        "filename": "fabricskyboxes-0.7.4+mc1.21-sources.jar",
+        "primary": false,
+        "size": 135172,
+        "file_type": null
+      }
+    ]
+  },
+  "75a2e73a3cc2fc9556fbd62c9618f1d7455fb1966d993af69133aac5e9dea29dc31b80b61d963857ea4c556a9328634575d81251d782e4eb49ce64e6c60af75c": {
+    "name": "Sodium Extra 0.5.7 for Minecraft 1.21",
+    "version_number": "mc1.21-0.5.7",
+    "changelog": "- Disable beacon beam optimizations\n\n**Full Changelog**: https://github.com/FlashyReese/sodium-extra-fabric/compare/mc1.21-0.5.6...mc1.21-0.5.7",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "AANobbMI",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "Bh37bMuy",
+        "file_name": null,
+        "dependency_type": "optional"
+      },
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "YL57xq9U",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "uuhVlRGv",
+    "project_id": "PtjYWJkn",
+    "author_id": "QXAY01zS",
+    "date_published": "2024-06-14T02:36:00.706363Z",
+    "downloads": 1063804,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "13a65186e5ba363e0ed3216303bc67a173c050fe",
+          "sha512": "75a2e73a3cc2fc9556fbd62c9618f1d7455fb1966d993af69133aac5e9dea29dc31b80b61d963857ea4c556a9328634575d81251d782e4eb49ce64e6c60af75c"
+        },
+        "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/uuhVlRGv/sodium-extra-0.5.7%2Bmc1.21.jar",
+        "filename": "sodium-extra-0.5.7+mc1.21.jar",
+        "primary": true,
+        "size": 375625,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "1afcc3aa194bfd02361a377fd4d1c32273845c5f1844641cc6a877ac5167a769899b10b218cade52479e3c2783efc314f7664230929507d83bd24433088253fe",
+          "sha1": "0679a190cbe84e61d50d2a102aa4b614fc26c7ff"
+        },
+        "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/uuhVlRGv/sodium-extra-0.5.7%2Bmc1.21-sources.jar",
+        "filename": "sodium-extra-0.5.7+mc1.21-sources.jar",
+        "primary": false,
+        "size": 291660,
+        "file_type": null
+      }
+    ]
+  },
+  "f2ac896e53cdfdeb5f36362e644470e71b0ba7d47cb088b693e0230fe396dbcbfd938ea9c8a713693a357bbc6b32233fff2dbf48b6f5bdbcd437d180447c3819": {
+    "name": "1.0.1",
+    "version_number": "1.0.1",
+    "changelog": "Fixes input issues with German keyboard. (#2)",
+    "dependencies": [],
+    "game_versions": [
+      "1.18.2",
+      "1.19",
+      "1.19.1",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "ZKDQu5sd",
+    "project_id": "siXFh9dn",
+    "author_id": "KdStZyTU",
+    "date_published": "2024-01-01T07:17:34.214453Z",
+    "downloads": 83686,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "f2ac896e53cdfdeb5f36362e644470e71b0ba7d47cb088b693e0230fe396dbcbfd938ea9c8a713693a357bbc6b32233fff2dbf48b6f5bdbcd437d180447c3819",
+          "sha1": "54f8961e608e0846f2f1feb25846643c2b024af6"
+        },
+        "url": "https://cdn.modrinth.com/data/siXFh9dn/versions/ZKDQu5sd/fix-keyboard-on-linux-1.0.1.jar",
+        "filename": "fix-keyboard-on-linux-1.0.1.jar",
+        "primary": true,
+        "size": 9327,
+        "file_type": null
+      }
+    ]
+  },
+  "d8cba8839c2ed329f32f63978e431a75b4e72e506282cf49d151a43302915524c50edbd29af2f5247f479d7456b074011bd768efbd0f4ece311c6e0e2ee0de3c": {
+    "name": "Animatica v0.6.1 for 1.21",
+    "version_number": "0.6.1+1.21",
+    "changelog": "- Update to 1.21 (LynixPlayz)",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "LHBm6fEV",
+    "project_id": "PRN43VSY",
+    "author_id": "WH9NfS5R",
+    "date_published": "2024-06-14T07:53:35.905476Z",
+    "downloads": 476813,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "fd805fa03e25013b9fe824bf43f7d8a90f565c84",
+          "sha512": "d8cba8839c2ed329f32f63978e431a75b4e72e506282cf49d151a43302915524c50edbd29af2f5247f479d7456b074011bd768efbd0f4ece311c6e0e2ee0de3c"
+        },
+        "url": "https://cdn.modrinth.com/data/PRN43VSY/versions/LHBm6fEV/animatica-0.6.1%2B1.21.jar",
+        "filename": "animatica-0.6.1+1.21.jar",
+        "primary": true,
+        "size": 71502,
+        "file_type": null
+      }
+    ]
+  },
+  "cd6e2859661f2020a52d1f61596e1db8156af69cf8879cf297237cb80ea5a955c1cb9eb6ee4fd59c3538411779d121fab0333b9e915f863e9c605a89b6bb74fb": {
+    "name": "1.3.2+fabric.1.21",
+    "version_number": "1.3.2+fabric.1.21",
+    "changelog": "- Updated to 1.21.",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      }
+    ],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "LE8aEZ5E",
+    "project_id": "XoHTb2Ap",
+    "author_id": "E3Y0ynoQ",
+    "date_published": "2024-06-13T19:35:27.687793Z",
+    "downloads": 75559,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "cd6e2859661f2020a52d1f61596e1db8156af69cf8879cf297237cb80ea5a955c1cb9eb6ee4fd59c3538411779d121fab0333b9e915f863e9c605a89b6bb74fb",
+          "sha1": "b7c173e3b9bee5fb76f8d3d8f8d2a2bbdae24442"
+        },
+        "url": "https://cdn.modrinth.com/data/XoHTb2Ap/versions/LE8aEZ5E/calcmod-1.3.2%2Bfabric.1.21.jar",
+        "filename": "calcmod-1.3.2+fabric.1.21.jar",
+        "primary": true,
+        "size": 619946,
+        "file_type": null
+      }
+    ]
+  },
+  "f422be38129bbaed3fe6994bed88d59bd480618f08e9baa46f0f478846c243ea35ef990793909b900efaec60b673a3937ef13085a72a658e89a4d5407d2544ac": {
+    "name": "ThreadTweak 0.1.3",
+    "version_number": "0.1.3+mc1.20.6",
+    "changelog": "### Added\n\n- Support for 1.20.6 ([#17](https://github.com/skywardmc/threadtweak/pull/17)) (thanks uku3lig!)\n\n### Changed\n\n- **yarn**:  `1.20.4+build.2` -> `1.20.6+build.1`\n- **fabric loader**: `0.15.1` -> `0.15.11`\n- **fabric api**: `0.91.2+1.20.4` -> `0.98.0+1.20.6`\n- **loom**:  `1.4-SNAPSHOT` -> `1.6-SNAPSHOT`\n- Gradle deprecation warnings have been fixed ([#17](https://github.com/skywardmc/threadtweak/pull/17))\n- Gradle workflows have been modernized ([#17](https://github.com/skywardmc/threadtweak/pull/17))",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "mOgUt4GM",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.20.5",
+      "1.20.6"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "BtMMYDAh",
+    "project_id": "vSEH1ERy",
+    "author_id": "gsn9j6vl",
+    "date_published": "2024-05-15T20:49:42.921657Z",
+    "downloads": 270202,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "e9a1b75289a1be5efa56f8f6bdc4ffc6c793282e",
+          "sha512": "f422be38129bbaed3fe6994bed88d59bd480618f08e9baa46f0f478846c243ea35ef990793909b900efaec60b673a3937ef13085a72a658e89a4d5407d2544ac"
+        },
+        "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/BtMMYDAh/threadtweak-fabric-1.20.6-0.1.3.jar",
+        "filename": "threadtweak-fabric-1.20.6-0.1.3.jar",
+        "primary": true,
+        "size": 144268,
+        "file_type": null
+      }
+    ]
+  },
+  "af362255970c5caa0efbc46679666915d8f42448a6ae4c4a3e2d217d8181eb322cf3a823954321650b597988dd89b1b855a4207767587fc88327902f47778368": {
+    "name": "5.18.7+mc1.21",
+    "version_number": "5.18.7+mc1.21",
+    "changelog": "Depending on the size of this release, there may be a human-readable changelog available on [the wiki page](https://github.com/embeddedt/ModernFix/wiki/Changelog).\n\n## Changes since 5.18.6+1.21\n\n  * [Always convert identity unbaked missing model to identity baked missing model](https://github.com/embeddedt/ModernFix/commit/783627f4c52d1ae9b9edee815edca2cae94ae4ce) - embeddedt\n",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "omk9tj4N",
+    "project_id": "nmDcB62a",
+    "author_id": "6bGskxLV",
+    "date_published": "2024-07-08T23:36:42.717722Z",
+    "downloads": 56727,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "6c3e8dd274b3f8af1d429736d526aeb109dd963f",
+          "sha512": "af362255970c5caa0efbc46679666915d8f42448a6ae4c4a3e2d217d8181eb322cf3a823954321650b597988dd89b1b855a4207767587fc88327902f47778368"
+        },
+        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/omk9tj4N/modernfix-fabric-5.18.7%2Bmc1.21.jar",
+        "filename": "modernfix-fabric-5.18.7+mc1.21.jar",
+        "primary": true,
+        "size": 416172,
+        "file_type": null
+      }
+    ]
+  },
+  "b3059112661363955aa77f3cdc2993e7875089f6415179351869febd4bd35a221b75001ab4698e6105f3c0241698d0ffce645b5cae7fe9f90bdb3b96b74691d2": {
+    "name": "[Fabric 1.21] v15.0.127",
+    "version_number": "15.0.127+fabric",
+    "changelog": "",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "Yc8omJNb",
+    "project_id": "9s6osm5g",
+    "author_id": "1Hsaf75m",
+    "date_published": "2024-06-13T17:37:49.686415Z",
+    "downloads": 814333,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "b3059112661363955aa77f3cdc2993e7875089f6415179351869febd4bd35a221b75001ab4698e6105f3c0241698d0ffce645b5cae7fe9f90bdb3b96b74691d2",
+          "sha1": "d2cef696bbf70a07075b798e541e8c98c34ddd2d"
+        },
+        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar",
+        "filename": "cloth-config-15.0.127-fabric.jar",
+        "primary": true,
+        "size": 1144382,
+        "file_type": null
+      }
+    ]
+  },
+  "4832eb6d4a6a477800cc9c3abf73dc5169436b297e0ff11f82ed8f9feea766f9614f7281a57f987c2ea1b1744429536ab6d74305d31c0d5f10cbafa1f54b805b": {
+    "name": "3.0.0 - 1.20.5-1.21.1",
+    "version_number": "3.0.0+1.20.6",
+    "changelog": "Now available for Minecraft 1.20.5 & 1.20.6!\n\nEdit: This release works for 1.21 and 1.21.1 too :)",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "9s6osm5g",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "mOgUt4GM",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": true,
+    "status": "listed",
+    "requested_status": null,
+    "id": "dIGKewCo",
+    "project_id": "x1hIzbuY",
+    "author_id": "2QxwGDcB",
+    "date_published": "2024-05-02T13:40:15.413678Z",
+    "downloads": 668752,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "4832eb6d4a6a477800cc9c3abf73dc5169436b297e0ff11f82ed8f9feea766f9614f7281a57f987c2ea1b1744429536ab6d74305d31c0d5f10cbafa1f54b805b",
+          "sha1": "9c4bf4fc3292d627fe0eff85a96672a15f27338c"
+        },
+        "url": "https://cdn.modrinth.com/data/x1hIzbuY/versions/dIGKewCo/fastquit-3.0.0%2B1.20.6.jar",
+        "filename": "fastquit-3.0.0+1.20.6.jar",
+        "primary": true,
+        "size": 58822,
+        "file_type": null
+      }
+    ]
+  },
+  "8fda1017487f86a8958ae80eb0d32675113aff69584557d3117e8e4655b81761b90f7eaa65a629a7eb6d31fe99b5c47c8de1a0b9579a3ce7b3b96acdf5b214eb": {
+    "name": "ImmediatelyFast 1.2.18",
+    "version_number": "1.2.18+1.21-fabric",
+    "changelog": "* Updated to Minecraft 1.21 (Fabric + NeoForge)\r\n* Updated libraries\r\n* Removed Iceberg compatibility mixin (Not needed anymore)\r\n",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "DA0kxiSe",
+    "project_id": "5ZwdcRci",
+    "author_id": "XEedK03N",
+    "date_published": "2024-06-13T19:50:20.895370Z",
+    "downloads": 866560,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha1": "84e6c85124cae35d298d5fada7ec91d794c74639",
+          "sha512": "8fda1017487f86a8958ae80eb0d32675113aff69584557d3117e8e4655b81761b90f7eaa65a629a7eb6d31fe99b5c47c8de1a0b9579a3ce7b3b96acdf5b214eb"
+        },
+        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/DA0kxiSe/ImmediatelyFast-Fabric-1.2.18%2B1.21.jar",
+        "filename": "ImmediatelyFast-Fabric-1.2.18+1.21.jar",
+        "primary": true,
+        "size": 248677,
+        "file_type": null
+      }
+    ]
+  },
+  "045c831b561ee16cf38f89228b63565f325db757f9775e5c03167e47f67bc3421813560b51a0182db1a600a328ec6ff5c4b386d578972b23e451b3347ef9cd37": {
+    "name": "[FABRIC 1.21] v1.4.6",
+    "version_number": "1.4.6",
+    "changelog": "- Ported to 1.21 by LemmaEOF -  thank you!",
+    "dependencies": [],
+    "game_versions": [
+      "1.21"
+    ],
+    "version_type": "release",
+    "loaders": [
+      "fabric"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "sTb8pEOY",
+    "project_id": "mfzaZK3Z",
+    "author_id": "3g0nMgcw",
+    "date_published": "2024-06-16T07:10:49.873296Z",
+    "downloads": 29252,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "045c831b561ee16cf38f89228b63565f325db757f9775e5c03167e47f67bc3421813560b51a0182db1a600a328ec6ff5c4b386d578972b23e451b3347ef9cd37",
+          "sha1": "330ae7e417269c00db84b639316c61286c0e470a"
+        },
+        "url": "https://cdn.modrinth.com/data/mfzaZK3Z/versions/sTb8pEOY/ears-fabric-1.21-1.4.6.jar",
+        "filename": "ears-fabric-1.21-1.4.6.jar",
+        "primary": true,
+        "size": 168069,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha512": "9a62ef9ae34133bdfd305be45c8c62004d74f710259d52a8dba1e1b25fe53f2ba662a544509d0fc282adc7de7cb29ae5cfef8ef8dfeec51b13835ef83c3090b7",
+          "sha1": "1d3e859d4ebe2331a81ccff6ce1ddfdce92babe0"
+        },
+        "url": "https://cdn.modrinth.com/data/mfzaZK3Z/versions/sTb8pEOY/ears-fabric-1.21-1.4.6-sources.jar",
+        "filename": "ears-fabric-1.21-1.4.6-sources.jar",
+        "primary": false,
+        "size": 43111,
+        "file_type": null
+      }
+    ]
+  },
+  "d80af52a670e160d47af2e500becc475c162d9e665df86ec467a151112e64f96353d429ff9b9e764303dfc96aa3e2fa5027f4cbdcfa8f5763a1143b5aae77aac": {
+    "name": "OptiGUI 2.3.0-beta.2+1.21",
+    "version_number": "2.3.0-beta.2+1.21",
+    "changelog": "# OptiGUI 2.3.0-beta.2+1.21\n\nThis is a port of OptiGUI 2.3.0-beta.2 to Minecraft 1.21.\nSee OptiGUI 2.3.0-beta.2 changelog.\n\n",
+    "dependencies": [
+      {
+        "version_id": null,
+        "project_id": "Ha28R6CL",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "P7dR8mSH",
+        "file_name": null,
+        "dependency_type": "required"
+      },
+      {
+        "version_id": null,
+        "project_id": "PRN43VSY",
+        "file_name": null,
+        "dependency_type": "optional"
+      }
+    ],
+    "game_versions": [
+      "1.21",
+      "1.21.1"
+    ],
+    "version_type": "beta",
+    "loaders": [
+      "fabric",
+      "quilt"
+    ],
+    "featured": false,
+    "status": "listed",
+    "requested_status": null,
+    "id": "dPuD2Nuk",
+    "project_id": "JuksLGBQ",
+    "author_id": "PpKojnYx",
+    "date_published": "2024-06-15T17:35:24.309482Z",
+    "downloads": 404372,
+    "changelog_url": null,
+    "files": [
+      {
+        "hashes": {
+          "sha512": "d80af52a670e160d47af2e500becc475c162d9e665df86ec467a151112e64f96353d429ff9b9e764303dfc96aa3e2fa5027f4cbdcfa8f5763a1143b5aae77aac",
+          "sha1": "d463f8ae8b3d1fd2f0bda24ef3fc988a26f14735"
+        },
+        "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/dPuD2Nuk/optigui-2.3.0-beta.2%2B1.21.jar",
+        "filename": "optigui-2.3.0-beta.2+1.21.jar",
+        "primary": true,
+        "size": 601460,
+        "file_type": null
+      },
+      {
+        "hashes": {
+          "sha1": "4489a4a4f0288c8f78493a809026065de1d62a60",
+          "sha512": "2f2740ecddc69b770f9c713ebbb51023563fa3f668554364444b7b3e0459d1d37f7c914aa4288c575076f480702f5682cbf71af4f09ece02ea1697470f53a572"
+        },
+        "url": "https://cdn.modrinth.com/data/JuksLGBQ/versions/dPuD2Nuk/optigui-2.3.0-beta.2%2B1.21-sources.jar",
+        "filename": "optigui-2.3.0-beta.2+1.21-sources.jar",
+        "primary": false,
+        "size": 70563,
+        "file_type": null
+      }
+    ]
+  }
+}
