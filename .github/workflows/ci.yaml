@@ -5,10 +5,12 @@ on:
     branches: ["main"]
     paths:
       - "**.rs"
+      - ".github/workflows/ci.yaml"
       - "Cargo.toml"
   pull_request:
     paths:
       - "**.rs"
+      - ".github/workflows/ci.yaml"
       - "Cargo.toml"
   workflow_dispatch:
 
