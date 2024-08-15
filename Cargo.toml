@@ -6,7 +6,7 @@ authors = [
 	"SkywardMC Contributors"
 ]
 edition = "2021"
-rust-version = "1.78"
+rust-version = "1.56"
 description = "Structured bindings for Modrinth's API"
 readme = "README.md"
 repository = "https://github.com/skywardmc/modrinth-api"
